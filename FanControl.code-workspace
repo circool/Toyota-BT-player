@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"name": "FanControl",
+			"path": "."
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"string": "cpp"
+		}
+	}
+}
